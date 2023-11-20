@@ -1,6 +1,6 @@
 ### Hello 👋 I’m Konstantin. 
-I’m looking for my place in IT 🤔. 
-I finished:\
+I’m looking for my place in IT 🤔.   
+I finished:
 + Frontend / JS courses
 +  React.js course
 
