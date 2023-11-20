@@ -1,6 +1,8 @@
-Hello 👋 
+### Hello 👋 
 I’m Konstantin. I’m looking for my place in IT 🤔. 
-I finished: 1) Frontend / JS courses 2) React.js course
+I finished:
++ Frontend / JS courses
++  React.js course
 
 <!--
 **IvanovKS/IvanovKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
