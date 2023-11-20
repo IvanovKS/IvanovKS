@@ -1,5 +1,5 @@
 ### Hello 👋 I’m Konstantin. 
-I’m looking for my place in IT 🤔.   
+I’m looking for my place in IT 🤔. <br>
 I finished:
 + Frontend / JS courses
 +  React.js course
